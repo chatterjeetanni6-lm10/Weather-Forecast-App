@@ -3,7 +3,7 @@
 A real-time weather forecasting application built with Python, Streamlit, and the Open-Meteo API.
 
 ## 🚀 Live Demo
-**[Try the app here](https://weather-forecast-app-YOUR-USERNAME.streamlit.app/)**
+**[Try the app here][(https://weather-forecast-app-rfsvrzdvnokrwtp3vjta4h.streamlit.app/)]**
 
 ## 📊 Project Overview
 This project analyzes and visualizes weather patterns using real-time weather data. It provides 7-day forecasts, temperature statistics, and interactive visualizations for any city worldwide.
@@ -34,7 +34,7 @@ This project analyzes and visualizes weather patterns using real-time weather da
 ## 📈 How It Works
 1. User enters a city name in the sidebar
 2. App fetches coordinates using geocoding API
-3. Retrieves 7-day weather forecast from Open-Meteo
+3. Retrieves 2-day weather forecast from Open-Meteo
 4. Calculates temperature statistics and correlations
 5. Displays interactive graphs and data tables
 
